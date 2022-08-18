@@ -1,4 +1,7 @@
-<include a CircleCI status badge, here>
+## Circle CI Pipeline Status
+
+[![officialdarnyc](https://circleci.com/gh/officialdarnyc/DevOps_Microservices.svg?style=svg)](https://circleci.com/gh/officialdarnyc/DevOps_Microservices)
+
 
 ## Project Overview
 
